@@ -11,5 +11,4 @@ To enable mouse functionality, uncheck the "Quick Edit Mode" and "Insert Mode" o
 
 For a larger window, set the font to 10x18 in the settings.
 
-<img width="382" height="482" alt="ConsoleWindowFont" src="https://github.com/user-attachments/assets/ead52349-98f0-474e-94de-dd67476d7880" />
-
+<img width="381" height="457" alt="ConsoleWindowFont" src="https://github.com/user-attachments/assets/36e44bf4-ce01-4eef-a042-30033f71f43e" />
