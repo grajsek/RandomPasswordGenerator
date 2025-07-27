@@ -4,6 +4,9 @@ This is one of the first applications through which I started learning the C lan
 
 <img width="797" height="468" alt="RandomPasswordGeneratorMainWindow" src="https://github.com/user-attachments/assets/ebf11268-f586-4e4f-b1f9-b7abd9e7ce1c" />
 
+Generated password...
+<img width="749" height="425" alt="RandomPasswordGeneratorMainWindowPassword" src="https://github.com/user-attachments/assets/0c2513d8-aba9-4a3e-a6de-de419e48acff" />
+
 To enable mouse functionality, uncheck the "Quick Edit Mode" and "Insert Mode" options in the window settings.
 
 <img width="385" height="463" alt="ConsoleWindowOptions" src="https://github.com/user-attachments/assets/b91cf021-f2a0-484b-b209-046159931a09" />
