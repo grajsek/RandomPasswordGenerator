@@ -15,3 +15,7 @@ To enable mouse functionality, uncheck the "Quick Edit Mode" and "Insert Mode" o
 For a larger window, set the font to 10x18 in the settings.
 
 <img width="381" height="457" alt="ConsoleWindowFont" src="https://github.com/user-attachments/assets/36e44bf4-ce01-4eef-a042-30033f71f43e" />
+
+# Environment setup
+- Microsoft Visual Studio 2022 Community Edition
+- Go to menu Project -> Random Password Generator 1.0 Properties -> Linker -> System -> For SubSystem select "Console (/SUBSYSTEM:CONSOLE)"
